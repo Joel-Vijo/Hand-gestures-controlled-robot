@@ -20,5 +20,9 @@ The turtlebot3 package is cloned. In the python file, we import all the required
 0 : force stop
 
 ## Demo
+In Turtlebot3 world \
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87753623/137074674-52b90297-9441-4da7-aded-31dcc9280c01.gif)\
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87753623/137074674-52b90297-9441-4da7-aded-31dcc9280c01.gif)
+In Empty world \
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/87753623/137356247-987261f4-7ad3-4d86-95dd-822b8a60131b.gif)
+
